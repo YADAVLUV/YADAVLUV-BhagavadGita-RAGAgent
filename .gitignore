@@ -1,0 +1,23 @@
+# Virtual environments
+venv/
+RAG_env/
+env/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Qdrant local data
+.qdrant/
+storage/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
